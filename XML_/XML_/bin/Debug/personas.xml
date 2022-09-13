@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<ArrayOfNombres xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Nombres>
+    <Nombre />
+    <Apellido />
+    <Edad>0</Edad>
+    <Barrio />
+  </Nombres>
+</ArrayOfNombres>

@@ -1,0 +1,14 @@
+C:\Users\Angel Diaz\source\repos\MOVG052xy\MOVG052xy\bin\Debug\MOVG052xy.exe.config
+C:\Users\Angel Diaz\source\repos\MOVG052xy\MOVG052xy\bin\Debug\MOVG052xy.exe
+C:\Users\Angel Diaz\source\repos\MOVG052xy\MOVG052xy\bin\Debug\MOVG052xy.pdb
+C:\Users\Angel Diaz\source\repos\MOVG052xy\MOVG052xy\obj\Debug\MOVG052xy.csproj.CoreCompileInputs.cache
+C:\Users\Angel Diaz\source\repos\MOVG052xy\MOVG052xy\obj\Debug\MOVG052xy.exe
+C:\Users\Angel Diaz\source\repos\MOVG052xy\MOVG052xy\obj\Debug\MOVG052xy.pdb
+C:\Users\myva0\OneDrive\Escritorio\MOVG052xy\MOVG052xy\bin\Debug\MOVG052xy.exe.config
+C:\Users\myva0\OneDrive\Escritorio\MOVG052xy\MOVG052xy\bin\Debug\MOVG052xy.exe
+C:\Users\myva0\OneDrive\Escritorio\MOVG052xy\MOVG052xy\bin\Debug\MOVG052xy.pdb
+C:\Users\myva0\OneDrive\Escritorio\MOVG052xy\MOVG052xy\obj\Debug\MOVG052xy.csproj.AssemblyReference.cache
+C:\Users\myva0\OneDrive\Escritorio\MOVG052xy\MOVG052xy\obj\Debug\MOVG052xy.csproj.SuggestedBindingRedirects.cache
+C:\Users\myva0\OneDrive\Escritorio\MOVG052xy\MOVG052xy\obj\Debug\MOVG052xy.csproj.CoreCompileInputs.cache
+C:\Users\myva0\OneDrive\Escritorio\MOVG052xy\MOVG052xy\obj\Debug\MOVG052xy.exe
+C:\Users\myva0\OneDrive\Escritorio\MOVG052xy\MOVG052xy\obj\Debug\MOVG052xy.pdb

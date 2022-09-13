@@ -1,0 +1,11 @@
+C:\Users\myva0\OneDrive\Escritorio\Tareas\Herramientas programacion\XML_\XML_\obj\Debug\XML_.csproj.AssemblyReference.cache
+C:\Users\myva0\OneDrive\Escritorio\Tareas\Herramientas programacion\XML_\XML_\obj\Debug\XML_.csproj.SuggestedBindingRedirects.cache
+C:\Users\myva0\OneDrive\Escritorio\Tareas\Herramientas programacion\XML_\XML_\obj\Debug\XML_.Form1.resources
+C:\Users\myva0\OneDrive\Escritorio\Tareas\Herramientas programacion\XML_\XML_\obj\Debug\XML_.Properties.Resources.resources
+C:\Users\myva0\OneDrive\Escritorio\Tareas\Herramientas programacion\XML_\XML_\obj\Debug\XML_.csproj.GenerateResource.cache
+C:\Users\myva0\OneDrive\Escritorio\Tareas\Herramientas programacion\XML_\XML_\obj\Debug\XML_.csproj.CoreCompileInputs.cache
+C:\Users\myva0\OneDrive\Escritorio\Tareas\Herramientas programacion\XML_\XML_\bin\Debug\XML_.exe.config
+C:\Users\myva0\OneDrive\Escritorio\Tareas\Herramientas programacion\XML_\XML_\bin\Debug\XML_.exe
+C:\Users\myva0\OneDrive\Escritorio\Tareas\Herramientas programacion\XML_\XML_\bin\Debug\XML_.pdb
+C:\Users\myva0\OneDrive\Escritorio\Tareas\Herramientas programacion\XML_\XML_\obj\Debug\XML_.exe
+C:\Users\myva0\OneDrive\Escritorio\Tareas\Herramientas programacion\XML_\XML_\obj\Debug\XML_.pdb

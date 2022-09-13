@@ -1,0 +1,11 @@
+C:\Users\myva0\OneDrive\Escritorio\Tareas\Herramientas programacion\RTF\RTF\bin\Debug\RTF.exe.config
+C:\Users\myva0\OneDrive\Escritorio\Tareas\Herramientas programacion\RTF\RTF\bin\Debug\RTF.exe
+C:\Users\myva0\OneDrive\Escritorio\Tareas\Herramientas programacion\RTF\RTF\bin\Debug\RTF.pdb
+C:\Users\myva0\OneDrive\Escritorio\Tareas\Herramientas programacion\RTF\RTF\obj\Debug\RTF.csproj.AssemblyReference.cache
+C:\Users\myva0\OneDrive\Escritorio\Tareas\Herramientas programacion\RTF\RTF\obj\Debug\RTF.csproj.SuggestedBindingRedirects.cache
+C:\Users\myva0\OneDrive\Escritorio\Tareas\Herramientas programacion\RTF\RTF\obj\Debug\RTF.Form1.resources
+C:\Users\myva0\OneDrive\Escritorio\Tareas\Herramientas programacion\RTF\RTF\obj\Debug\RTF.Properties.Resources.resources
+C:\Users\myva0\OneDrive\Escritorio\Tareas\Herramientas programacion\RTF\RTF\obj\Debug\RTF.csproj.GenerateResource.cache
+C:\Users\myva0\OneDrive\Escritorio\Tareas\Herramientas programacion\RTF\RTF\obj\Debug\RTF.csproj.CoreCompileInputs.cache
+C:\Users\myva0\OneDrive\Escritorio\Tareas\Herramientas programacion\RTF\RTF\obj\Debug\RTF.exe
+C:\Users\myva0\OneDrive\Escritorio\Tareas\Herramientas programacion\RTF\RTF\obj\Debug\RTF.pdb

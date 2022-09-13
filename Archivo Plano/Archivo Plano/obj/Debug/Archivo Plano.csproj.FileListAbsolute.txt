@@ -1,0 +1,11 @@
+C:\Users\myva0\OneDrive\Escritorio\tareas\Herramientas programacion\Archivo Plano\Archivo Plano\bin\Debug\Archivo Plano.exe.config
+C:\Users\myva0\OneDrive\Escritorio\tareas\Herramientas programacion\Archivo Plano\Archivo Plano\bin\Debug\Archivo Plano.exe
+C:\Users\myva0\OneDrive\Escritorio\tareas\Herramientas programacion\Archivo Plano\Archivo Plano\bin\Debug\Archivo Plano.pdb
+C:\Users\myva0\OneDrive\Escritorio\tareas\Herramientas programacion\Archivo Plano\Archivo Plano\obj\Debug\Archivo Plano.csproj.AssemblyReference.cache
+C:\Users\myva0\OneDrive\Escritorio\tareas\Herramientas programacion\Archivo Plano\Archivo Plano\obj\Debug\Archivo Plano.csproj.SuggestedBindingRedirects.cache
+C:\Users\myva0\OneDrive\Escritorio\tareas\Herramientas programacion\Archivo Plano\Archivo Plano\obj\Debug\Archivo_Plano.Form1.resources
+C:\Users\myva0\OneDrive\Escritorio\tareas\Herramientas programacion\Archivo Plano\Archivo Plano\obj\Debug\Archivo_Plano.Properties.Resources.resources
+C:\Users\myva0\OneDrive\Escritorio\tareas\Herramientas programacion\Archivo Plano\Archivo Plano\obj\Debug\Archivo Plano.csproj.GenerateResource.cache
+C:\Users\myva0\OneDrive\Escritorio\tareas\Herramientas programacion\Archivo Plano\Archivo Plano\obj\Debug\Archivo Plano.csproj.CoreCompileInputs.cache
+C:\Users\myva0\OneDrive\Escritorio\tareas\Herramientas programacion\Archivo Plano\Archivo Plano\obj\Debug\Archivo Plano.exe
+C:\Users\myva0\OneDrive\Escritorio\tareas\Herramientas programacion\Archivo Plano\Archivo Plano\obj\Debug\Archivo Plano.pdb

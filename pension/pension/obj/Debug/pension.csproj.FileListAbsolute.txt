@@ -1,0 +1,11 @@
+C:\Users\myva0\OneDrive\Escritorio\tareas\Herramientas programacion\pension\pension\bin\Debug\pension.exe.config
+C:\Users\myva0\OneDrive\Escritorio\tareas\Herramientas programacion\pension\pension\bin\Debug\pension.exe
+C:\Users\myva0\OneDrive\Escritorio\tareas\Herramientas programacion\pension\pension\bin\Debug\pension.pdb
+C:\Users\myva0\OneDrive\Escritorio\tareas\Herramientas programacion\pension\pension\obj\Debug\pension.csproj.AssemblyReference.cache
+C:\Users\myva0\OneDrive\Escritorio\tareas\Herramientas programacion\pension\pension\obj\Debug\pension.csproj.SuggestedBindingRedirects.cache
+C:\Users\myva0\OneDrive\Escritorio\tareas\Herramientas programacion\pension\pension\obj\Debug\pension.Form1.resources
+C:\Users\myva0\OneDrive\Escritorio\tareas\Herramientas programacion\pension\pension\obj\Debug\pension.Properties.Resources.resources
+C:\Users\myva0\OneDrive\Escritorio\tareas\Herramientas programacion\pension\pension\obj\Debug\pension.csproj.GenerateResource.cache
+C:\Users\myva0\OneDrive\Escritorio\tareas\Herramientas programacion\pension\pension\obj\Debug\pension.csproj.CoreCompileInputs.cache
+C:\Users\myva0\OneDrive\Escritorio\tareas\Herramientas programacion\pension\pension\obj\Debug\pension.exe
+C:\Users\myva0\OneDrive\Escritorio\tareas\Herramientas programacion\pension\pension\obj\Debug\pension.pdb

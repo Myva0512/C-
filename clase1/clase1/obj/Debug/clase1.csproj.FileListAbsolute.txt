@@ -1,0 +1,11 @@
+C:\Users\myva0\OneDrive\Escritorio\tareas\Herramientas programacion\clase1\clase1\bin\Debug\clase1.exe.config
+C:\Users\myva0\OneDrive\Escritorio\tareas\Herramientas programacion\clase1\clase1\bin\Debug\clase1.exe
+C:\Users\myva0\OneDrive\Escritorio\tareas\Herramientas programacion\clase1\clase1\bin\Debug\clase1.pdb
+C:\Users\myva0\OneDrive\Escritorio\tareas\Herramientas programacion\clase1\clase1\obj\Debug\clase1.csproj.AssemblyReference.cache
+C:\Users\myva0\OneDrive\Escritorio\tareas\Herramientas programacion\clase1\clase1\obj\Debug\clase1.csproj.SuggestedBindingRedirects.cache
+C:\Users\myva0\OneDrive\Escritorio\tareas\Herramientas programacion\clase1\clase1\obj\Debug\clase1.Form1.resources
+C:\Users\myva0\OneDrive\Escritorio\tareas\Herramientas programacion\clase1\clase1\obj\Debug\clase1.Properties.Resources.resources
+C:\Users\myva0\OneDrive\Escritorio\tareas\Herramientas programacion\clase1\clase1\obj\Debug\clase1.csproj.GenerateResource.cache
+C:\Users\myva0\OneDrive\Escritorio\tareas\Herramientas programacion\clase1\clase1\obj\Debug\clase1.csproj.CoreCompileInputs.cache
+C:\Users\myva0\OneDrive\Escritorio\tareas\Herramientas programacion\clase1\clase1\obj\Debug\clase1.exe
+C:\Users\myva0\OneDrive\Escritorio\tareas\Herramientas programacion\clase1\clase1\obj\Debug\clase1.pdb

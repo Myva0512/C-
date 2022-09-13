@@ -1,0 +1,8 @@
+C:\Users\myva0\OneDrive\Escritorio\tareas\Herramientas programacion\PosicionConsola\PosicionConsola\bin\Debug\PosicionConsola.exe.config
+C:\Users\myva0\OneDrive\Escritorio\tareas\Herramientas programacion\PosicionConsola\PosicionConsola\bin\Debug\PosicionConsola.exe
+C:\Users\myva0\OneDrive\Escritorio\tareas\Herramientas programacion\PosicionConsola\PosicionConsola\bin\Debug\PosicionConsola.pdb
+C:\Users\myva0\OneDrive\Escritorio\tareas\Herramientas programacion\PosicionConsola\PosicionConsola\obj\Debug\PosicionConsola.csproj.AssemblyReference.cache
+C:\Users\myva0\OneDrive\Escritorio\tareas\Herramientas programacion\PosicionConsola\PosicionConsola\obj\Debug\PosicionConsola.csproj.SuggestedBindingRedirects.cache
+C:\Users\myva0\OneDrive\Escritorio\tareas\Herramientas programacion\PosicionConsola\PosicionConsola\obj\Debug\PosicionConsola.csproj.CoreCompileInputs.cache
+C:\Users\myva0\OneDrive\Escritorio\tareas\Herramientas programacion\PosicionConsola\PosicionConsola\obj\Debug\PosicionConsola.exe
+C:\Users\myva0\OneDrive\Escritorio\tareas\Herramientas programacion\PosicionConsola\PosicionConsola\obj\Debug\PosicionConsola.pdb
