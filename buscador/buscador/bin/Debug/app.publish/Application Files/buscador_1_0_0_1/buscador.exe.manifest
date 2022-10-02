@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="buscador.exe" version="1.0.0.1" publicKeyToken="aa2d82f3e975735e" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="buscador" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="buscador.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Opciones del manifiesto de Control de cuentas de usuario
+          Si quiere cambiar el nivel de Control de cuentas de usuario de Windows, reemplace el
+          nodo requestedExecutionLevel por alguno de los siguientes.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         Si desea usar la virtualización de archivos y del Registro para la
+         compatibilidad con versiones anteriores, elimine el nodo requestedExecutionLevel.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="buscador.exe" size="10152">
+      <assemblyIdentity name="buscador" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>byzkGfS51tszjQorV7ldmUlSWuw8x8N0FgLRrhK1DKQ=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="buscador.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>R+Wg8QGvQVHX8T0ta/qbhH1bXkqY0fRnS3wBV3J0bN8=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=Omega\Yurany" issuerKeyHash="4388bc1191f966872c325178dacdb529271da89c" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>pWlNpSwomjJaKPMRRUrPuXP4+l/uHycEfykbQZYCFeQ=</DigestValue></Reference></SignedInfo><SignatureValue>dCfrGSfU5Zv8b/ht8KU5gPXHQl5f7eO4zziG4y4MOm2uBdb7peTB6xrhtcF8+oCYd4dBh2yJbthDDZhu1Wx9icPI4OULZWxStx5Aq5wVKSaJUB9rGtFxATY9hQpC+9ZRJpCanIuz0v4C0PMA9GA/HPHz2RxjfoOZW4MkhNrn8as=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>o0xsKoMvhe990GDxNF2+hQVbD2M72FombUa3Wu2p/R2ySTwG/4TS0rTRnmwSvzot1EcqhFzrmKSiv16D4WY4Tz+3O8aFzBpRT+ARmF5YxbdXZuG/OpqYTSVr0jW10wHuC0xJMkiVeRLWLLkWOM/WQ/gvWaVKXxX/QdC0TDh614k=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="e4150296411b297f04271fee5ffaf873b9cf4a4511f3285a329a282ca54d69a5" Description="" Url=""><as:assemblyIdentity name="buscador.exe" version="1.0.0.1" publicKeyToken="aa2d82f3e975735e" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=Omega\Yurany</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>hh1G6DWy2NKfq4NxPG0Gj1L47vxHkcocoFYLJ1bnAck=</DigestValue></Reference></SignedInfo><SignatureValue>EAsq6XyjlaWiR2O5Yx+ziM11g8Il/Oi0Tw2FHbeDbL4ROjOuhcLkEyuMgXGNK9kdpzcxQmje8WI3Xt7P+fQ0HBULEEMLymi78g/iB9tnq6lLkfSgFAXOpdJ7gAKBwdo1tJXiSmeesIS3vZBQdLqAbWTdnDSbSlJ+LPwWUJWk4c4=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>o0xsKoMvhe990GDxNF2+hQVbD2M72FombUa3Wu2p/R2ySTwG/4TS0rTRnmwSvzot1EcqhFzrmKSiv16D4WY4Tz+3O8aFzBpRT+ARmF5YxbdXZuG/OpqYTSVr0jW10wHuC0xJMkiVeRLWLLkWOM/WQ/gvWaVKXxX/QdC0TDh614k=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIByTCCATKgAwIBAgIQeKol+X4iJ5FH/PWRlNeTfDANBgkqhkiG9w0BAQsFADAjMSEwHwYDVQQDHhgATwBtAGUAZwBhAFwAWQB1AHIAYQBuAHkwHhcNMjIxMDAyMjIzNjAwWhcNMjMxMDAzMDQzNjAwWjAjMSEwHwYDVQQDHhgATwBtAGUAZwBhAFwAWQB1AHIAYQBuAHkwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAKNMbCqDL4XvfdBg8TRdvoUFWw9jO9haJm1Gt1rtqf0dskk8Bv+E0tK00Z5sEr86LdRHKoRc65ikor9eg+FmOE8/tzvGhcwaUU/gEZheWMW3V2bhvzqamE0la9I1tdMB7gtMSTJIlXkS1iy5FjjP1kP4L1mlSl8V/0HQtEw4eteJAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAO6HdCgVJNDJkMCfxSRyhPOmDYpiHvIVB01UPDLdIzgM6yxlxXVcMsG43U3iP3G4s4SsUwUw2O+zLGTHJu3ZrdTksHMsRt6VF9hDgtnyE56ldx5h0K4jGEVPOgRDnF9/qFMA2I7o08piGQmSu1ckqyka/Joj1vpgNUPLLRaK8eQo=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

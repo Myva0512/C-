@@ -1,0 +1,15 @@
+C:\Users\Yurany\Desktop\tareas\herramientas de programacion\buscador\buscador\bin\Debug\buscador.exe.config
+C:\Users\Yurany\Desktop\tareas\herramientas de programacion\buscador\buscador\bin\Debug\buscador.exe
+C:\Users\Yurany\Desktop\tareas\herramientas de programacion\buscador\buscador\bin\Debug\buscador.pdb
+C:\Users\Yurany\Desktop\tareas\herramientas de programacion\buscador\buscador\obj\Debug\buscador.csproj.AssemblyReference.cache
+C:\Users\Yurany\Desktop\tareas\herramientas de programacion\buscador\buscador\obj\Debug\buscador.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yurany\Desktop\tareas\herramientas de programacion\buscador\buscador\obj\Debug\buscador.Form1.resources
+C:\Users\Yurany\Desktop\tareas\herramientas de programacion\buscador\buscador\obj\Debug\buscador.Properties.Resources.resources
+C:\Users\Yurany\Desktop\tareas\herramientas de programacion\buscador\buscador\obj\Debug\buscador.csproj.GenerateResource.cache
+C:\Users\Yurany\Desktop\tareas\herramientas de programacion\buscador\buscador\obj\Debug\buscador.csproj.CoreCompileInputs.cache
+C:\Users\Yurany\Desktop\tareas\herramientas de programacion\buscador\buscador\obj\Debug\buscador.exe
+C:\Users\Yurany\Desktop\tareas\herramientas de programacion\buscador\buscador\obj\Debug\buscador.pdb
+C:\Users\Yurany\Desktop\tareas\herramientas de programacion\buscador\buscador\bin\Debug\buscador.exe.manifest
+C:\Users\Yurany\Desktop\tareas\herramientas de programacion\buscador\buscador\bin\Debug\buscador.application
+C:\Users\Yurany\Desktop\tareas\herramientas de programacion\buscador\buscador\obj\Debug\buscador.exe.manifest
+C:\Users\Yurany\Desktop\tareas\herramientas de programacion\buscador\buscador\obj\Debug\buscador.application
